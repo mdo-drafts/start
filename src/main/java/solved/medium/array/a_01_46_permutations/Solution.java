@@ -35,7 +35,6 @@ public class Solution {
             List<List<Integer>> permutedLists = permuteList(copy);
             for (List<Integer> permutedList : permutedLists) {
                 permutedList.add(0, toAdd);
-
                 result.add(permutedList);
             }
         }
