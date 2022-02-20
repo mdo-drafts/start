@@ -1,4 +1,4 @@
-package solved.easy.array.a_02_605_can_place_flowers.s_1;
+package solved.easy.array.a_02_605_can_place_flowers;
 
 public class Solution {
 

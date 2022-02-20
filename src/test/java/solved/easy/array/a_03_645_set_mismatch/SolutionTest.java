@@ -1,7 +1,6 @@
 package solved.easy.array.a_03_645_set_mismatch;
 
 import org.junit.Test;
-import solved.easy.array.a_03_645_set_mismatch.s_1.Solution;
 
 import static org.junit.Assert.assertArrayEquals;
 

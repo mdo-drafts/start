@@ -1,7 +1,6 @@
 package solved.easy.array.a_02_605_can_place_flowers;
 
 import org.junit.Test;
-import solved.easy.array.a_02_605_can_place_flowers.s_1.Solution;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;

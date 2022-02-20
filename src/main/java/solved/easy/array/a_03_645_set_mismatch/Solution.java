@@ -1,4 +1,4 @@
-package solved.easy.array.a_03_645_set_mismatch.s_1;
+package solved.easy.array.a_03_645_set_mismatch;
 
 import java.util.Map;
 import java.util.TreeMap;

@@ -1,4 +1,4 @@
-package solved.easy.array.a_01_283_move_zeroes.s_1;
+package solved.easy.array.a_01_283_move_zeroes;
 
 public class Solution {
     public void moveZeroes(int[] nums) {
