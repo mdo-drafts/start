@@ -1,7 +1,7 @@
 package solved.easy.array.a_11_463_island_perimeter;
 
 import org.junit.Test;
-import unsolved.easy.graph.g_01_463_island_perimeter.Solution;
+import unsolved.easy.graph.g_01_463_island_perimeter.at_01.Solution;
 
 import static org.junit.Assert.assertEquals;
 

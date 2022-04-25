@@ -1,6 +1,7 @@
 package solved.easy.array.a_11_832_flipping_an_image;
 
 import org.junit.Test;
+import solved.easy.array.matrix.am_01_832_flipping_an_image.Solution;
 
 import static org.junit.Assert.assertArrayEquals;
 
